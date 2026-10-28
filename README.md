@@ -51,4 +51,4 @@ Total 8/8 PASS.
 Error yang ditemukan: nilai `abc` pada baris 4 memicu `ValueError` saat `float()`. Program menangkapnya di dalam loop, mencatat nomor barisnya, lalu melanjutkan sehingga satu baris rusak tidak menggagalkan seluruh file.
 
 ## Referensi/Bantuan
-Bahan ajar Pertemuan 12, Python 3 Documentation (Reading and Writing Files; Errors and Exceptions). Dibantu Claude untuk menyusun kode dan test; penulis wajib dapat menjelaskan isinya.
+Bahan ajar Pertemuan 12, Python 3 Documentation (Reading and Writing Files; Errors and Exceptions). Dibantu Claude untuk menyusun kode dan test.
